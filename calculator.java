@@ -1,6 +1,7 @@
 public class calculator{
 	public static void main(String[] args){
 		int c = addTwo(1,2);
+		System.out.println(c);
 	}
 	
 
